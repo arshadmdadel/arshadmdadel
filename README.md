@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Arshad Md adel] 👋
 
-### 👨‍💻 AI Researcher | Aspiring Project Manager | Full-Stack Enthusiast
+### 👨‍💻 NLP Researcher | Aspiring Project Manager | Full-Stack Enthusiast
 
 I am a recent Computer Science & Engineering graduate with a passion for building scalable software and managing the lifecycle of technical projects. My background lies at the intersection of **Natural Language Inference** and **Software Development**, where I focus on turning complex ideas into deliverable real-world products.
 
