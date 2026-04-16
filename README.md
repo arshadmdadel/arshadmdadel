@@ -4,21 +4,21 @@
 
 ### 👨‍💻 AI Researcher | Aspiring Project Manager | Full-Stack Enthusiast
 
-I am a recent Computer Science & Engineering graduate with a passion for building scalable software and managing the lifecycle of technical projects. My background lies at the intersection of **Artificial Intelligence (AI)** and **Software Development**, where I focus on turning complex ideas into deliverable real-world products.
+I am a recent Computer Science & Engineering graduate with a passion for building scalable software and managing the lifecycle of technical projects. My background lies at the intersection of **Natural Language Inference** and **Software Development**, where I focus on turning complex ideas into deliverable real-world products.
 
 ---
 
 ### 🛠️ What I Bring to the Table:
 * **Project Management:** Experienced in leading small teams, managing SDLC phases, and using tools like **Jira, ClickUp, and GitHub** to track milestones and ensure timely delivery.
-* **AI/ML Research:** Strong focus on **Green Computing**, Large Language Models (LLMs), and benchmarking Small Language Models (SLMs) for efficiency.
-* **Full-Stack Development:** Proficient in Python, with hands-on experience in building backend systems and designing intuitive UI/UX layouts.
+* ** Research:** Strong focus on **Green Computing**, Large Language Models (LLMs), and benchmarking Small Language Models (SLMs) for efficiency in humman annotation task.One other Paper is also on publishing process which is a ML project.
+* **Full-Stack Development:** Using  HTML, CSS, JavaScript, and React for building responsive UIs, along with basic backend, API integration, and real-world project development experience.
 
 ---
 
 ### 📁 Featured Projects:
 * **Service 24/7:** A comprehensive platform where I managed a team of three, oversaw task division, and handled full-stack integration to ensure project delivery under tight deadlines.
 * **Etechaid:** An AOOP project where I led the backend development and front-end design, navigating the project through the full SDLC.
-* **AI Benchmarking:** Research-focused work comparing model performance (Accuracy, F1, Recall) and energy efficiency (RAM/GPU utilization).
+* **Benchmarking:** Research-focused work comparing model performance (Accuracy, F1, Recall) and energy efficiency (RAM/GPU utilization) using low resource to figure out how the SLMS works in annotation task and are they repaceable for human annotation task.
 
 ---
 
@@ -36,9 +36,7 @@ I believe that technical skill builds a product, but disciplined management deli
 
 ### 📫 Connect with Me:
 * 📍 Based in: Dhaka, Bangladesh
-* 💼 Looking for: Project Management Internships / Research Roles
-* 📧 [Insert Your Email Here]
-* 🔗 [Insert LinkedIn Profile Link Here]
+* 💼 Looking for: Internships (Project managment || Software Development) 
 
 "I don't stop until I find the outcome.
 
