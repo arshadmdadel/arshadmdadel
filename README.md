@@ -24,7 +24,7 @@ I am a recent Computer Science & Engineering graduate with a passion for buildin
 
 ### 🔧 Tech Stack:
 * **Programing Languages:** Python, Java, C++, Javascropt
-* **UI/UX Design:** Figma,Pixso 
+* **UI/UX Design: ** Figma,Pixso 
 * **Front-end: ** Html5, CSS, TalwindCSS, Nextjs(progress)
 * **Back-end & Database : ** php , nodejs(progress) , MySQL, MongoDB 
 * **Data Science:** PyTorch, TensorFlow, Scikit-learn, Google Colab
