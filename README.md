@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm [Arshad Md Adel] 👋
+# Hi there, I'm Arshad Md Adel 👋
 
 ###  NLP Researcher | Aspiring Project Manager | Full-Stack Enthusiast
 
