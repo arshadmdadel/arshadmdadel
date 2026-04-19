@@ -10,7 +10,7 @@ I am a recent Computer Science & Engineering graduate with a passion for buildin
 
 ###  What I Bring to the Table:
 * **Project Management:** Experienced in leading small teams, managing SDLC phases, and using tools like **Jira, ClickUp, and GitHub** to track milestones and ensure timely delivery.
-* ** Research:** Strong focus on **Green Computing**, Large Language Models (LLMs), and benchmarking Small Language Models (SLMs) for efficiency in humman annotation task.One other Paper is also on publishing process which is a ML project.
+* **Research:** Strong focus onLarge Language Models (LLMs), and benchmarking Small Language Models (SLMs) for efficiency in humman annotation task.One other Paper is also on publishing process which is a ML project.
 * **Full-Stack Development:** Using  HTML, CSS, JavaScript, and React for building responsive UIs, along with basic backend, API integration, and real-world project development experience.
 
 ---
