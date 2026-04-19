@@ -22,7 +22,7 @@ I am a recent Computer Science & Engineering graduate with a passion for buildin
 
 ---
 
-###  Tech Stack:
+###  Skills:
 - **Programming Languages:** Python, Java, C++, JavaScript  
 - **UI/UX Design:** Figma, Pixso  
 - **Front-end:** HTML5, CSS3, Tailwind CSS, Next.js *(in progress)*  
