@@ -43,9 +43,7 @@ I believe that technical skill builds a product, but disciplined management deli
 
 ---
 
-### 📫 Connect with Me:
-* 📍 Based in: Dhaka, Bangladesh
-* 💼 Looking for: Internships (Project managment || Software Development) 
+
 
 "I don't stop until I find the outcome.
 
