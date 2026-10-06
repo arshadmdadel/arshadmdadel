@@ -2,25 +2,40 @@
 
 # Hi there, I'm Arshad Md Adel 👋
 
-###   Aspiring Full-Stack Enthusiast | Project Manager | NLP Researcher |
 
-I am a recent Computer Science & Engineering graduate with a passion for building scalable software and managing the lifecycle of technical projects. My background lies at the intersection of **Natural Language Inference** and **Software Development**, where I focus on turning complex ideas into deliverable real-world products.
+### Trainee Software QA Engineer at a1qa | CSE Graduate | NLP Research Enthusiast
+
+I'm a recent Computer Science & Engineering graduate focused on **software quality assurance**. I find defects early, report them clearly, and help teams ship reliable products. I also do research in **Natural Language Inference** and **LLMs**.Currently Working as a trainee cross func SQA in a1qa where i learned functional and automation testing.
+
 
 ---
 
-###  What I Bring to the Table:
-* **Project Management:** Experienced in leading small teams, managing SDLC phases, and using tools like **Jira, ClickUp, and GitHub** to track milestones and ensure timely delivery.
-* **Research:** Strong focus onLarge Language Models (LLMs), and benchmarking Small Language Models (SLMs) for efficiency in humman annotation task.One other Paper is also on publishing process which is a ML project.
-* **Full-Stack Development:** Using  HTML, CSS, JavaScript, and React for building responsive UIs, along with basic backend, API integration, and real-world project development experience.
+### 🔍 QA Skills
+- **Testing:** Functional, GUI, smoke, regression, exploratory, negative, black/white/gray box, boundary value analysis, equivalence partitioning, alpha/beta, UAT, test coverage
+- **Test Automation:** Selenium, TestNG, Java
+- **QA Documentation:** Test cases, defect reports, quality reports, test survey , Acceptances sheet
+- **Defect Tracking & Management:** Jira, ClickUp
+- **Mobile Testing:** Android application testing, ADB, logcat
+- **Network & API Testing:** Fiddler, Charles Proxy, Postman; HTTP/HTTPS request and response analysis
+- **Database Testing:** SQL queries with PostgreSQL and MySQL; MongoDB (NoSQL)
+- **Test Environments:** VirtualBox, cross-browser testing, Chrome DevTools
+- **QA Concepts:** SDLC, STLC, Agile, defect lifecycle, test lifecycle
+- **Debugging:** IDE debugging, breakpoints, step-by-step execution
 
-###  Skills:
-- **Programming Languages:** Python, Java, C++, JavaScript  
-- **UI/UX Design:** Figma, Pixso  
-- **Front-end:** HTML5, CSS3, Tailwind CSS, Next.js *(in progress)*  
-- **Back-end & Database:** PHP, Node.js *(in progress)*, MySQL, MongoDB  
-- **Data Science:** PyTorch, TensorFlow, Scikit-learn, Google Colab  
-- **Tools:** Git/GitHub, Jira, ClickUp, Microsoft Excel  
-- **Core Concepts:** SDLC, SaaS Architecture, Agile Methodology, LLM 
+### 💻 Tech Skills
+- **Languages:** Python, Java, C++, JavaScript
+- **Web:** HTML5, CSS3, React, Tailwind CSS
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git/GitHub, Figma, Microsoft Excel
+
+### 🔬 Research
+- Benchmarking Small Language Models (SLMs) for human annotation tasks
+- A machine learning paper currently in the publishing process
+
+### 📌 Projects
+- QA reports on web and Android apps: Menu Calculator, Forkify, Gregory Olsen Photo Studio and Voicemail
+
+---
 
 
 ###  Resilience & Dedication:
