@@ -29,7 +29,8 @@ I'm a recent Computer Science & Engineering graduate focused on **software quali
 - **Tools:** Git/GitHub, Figma, Microsoft Excel
 
 ### 🔬 Research
-- Benchmarking Small Language Models (SLMs) for human annotation tasks
+-  Benchmarking Small Language Models (SLMs) for human annotation tasks
+  📄 [Read the thesis: "A Study of Resource Constraints and Open-Source LLMs for DataAnnotation"](https://github.com/arshadmdadel/Thesis)
 
 ### 📌 Projects
 - QA reports on web and Android apps: Menu Calculator, Forkify, Gregory Olsen Photo Studio and Voicemail
