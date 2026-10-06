@@ -30,7 +30,6 @@ I'm a recent Computer Science & Engineering graduate focused on **software quali
 
 ### 🔬 Research
 - Benchmarking Small Language Models (SLMs) for human annotation tasks
-- A machine learning paper currently in the publishing process
 
 ### 📌 Projects
 - QA reports on web and Android apps: Menu Calculator, Forkify, Gregory Olsen Photo Studio and Voicemail
