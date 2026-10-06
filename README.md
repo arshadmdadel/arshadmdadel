@@ -33,7 +33,7 @@ I'm a recent Computer Science & Engineering graduate focused on **software quali
   📄 [Read the thesis: "A Study of Resource Constraints and Open-Source LLMs for DataAnnotation"](https://github.com/arshadmdadel/Thesis)
 
 ### 📌 Projects
-- QA reports on web and Android apps: [Menu Calculator]([YOUR_GITHUB_LINK](https://github.com/arshadmdadel/Calculator_Menu_filter)),  [Forkify](https://github.com/arshadmdadel/Forkify), [Gregory Olsen Photo Studio](https://github.com/arshadmdadel/Gregory-Olsen-Photo-Studio) and [Voicemail](https://github.com/arshadmdadel/Voicemail-apk)
+- QA reports on web and Android apps: [Menu Calculator](https://github.com/arshadmdadel/Calculator_Menu_filter),  [Forkify](https://github.com/arshadmdadel/Forkify), [Gregory Olsen Photo Studio](https://github.com/arshadmdadel/Gregory-Olsen-Photo-Studio) and [Voicemail](https://github.com/arshadmdadel/Voicemail-apk)
 
 ---
 
